@@ -17,4 +17,7 @@ module.exports = {
       { allowConstantExport: true },
     ],
   },
+  "scripts": {
+    "start": "react-scripts start"
+  },
 }
